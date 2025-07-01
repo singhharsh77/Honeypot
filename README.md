@@ -26,7 +26,7 @@ This project implements a **Cowrie SSH Honeypot** on a **Raspberry Pi 3 Model B+
 ### 📜 Installation (Scripted)
 
 ```bash
-git clone https://github.com/singhharsh77/cowrie-honeypot-pi.git
-cd cowrie-honeypot-pi/setup
+git clone https://github.com/singhharsh77/Honeypot.git
+cd Honeypot
 chmod +x cowrie-install.sh
 ./cowrie-install.sh
