@@ -1,18 +1,3 @@
-#Project Architecture
-project/
-├── README.md
-├── setup/
-│   ├── cowrie-install.sh
-│   └── config/
-│       ├── cowrie.cfg (placeholder)
-│       └── userdb.txt (placeholder)
-├── logs/
-│   └── sample-session.log (placeholder)
-├── docs/
-│   └── architecture-diagram.png (placeholder)
-├── screenshots/
-│   └── cowrie-running.png (placeholder)
-
 # 🕵️ Cowrie SSH Honeypot on Raspberry Pi
 
 This project implements a **Cowrie SSH Honeypot** on a **Raspberry Pi 3 Model B+** for analyzing attacker behavior in a controlled, monitored environment. Designed as part of a cybersecurity college project, it simulates an SSH service and logs unauthorized access attempts, commands, and malware uploads.
